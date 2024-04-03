@@ -2,17 +2,17 @@
 
 ### ChatGPT Actions API
 
-> Alex: "Understanding and learning about the OpenAI specification for API actions in custom GPTs proved challenging for me initially. However, with the assistance of ChatGPT, I gained detailed explanations that clarified my questions regarding the OpenAI specification, schema, and more. Integrating custom GPT action APIs and services using JSON format is significantly more complex than providing plain text instructions. In upcoming projects, I may integrate a custom API or service, such as the Twitter API, Google Vision API, or PayPal API, into one of my custom GPTs.
+> Alex: *"Understanding and learning about the OpenAI specification for API actions in custom GPTs proved challenging for me initially. However, with the assistance of ChatGPT, I gained detailed explanations that clarified my questions regarding the OpenAI specification, schema, and more. Integrating custom GPT action APIs and services using JSON format is significantly more complex than providing plain text instructions. In upcoming projects, I may integrate a custom API or service, such as the Twitter API, Google Vision API, or PayPal API, into one of my custom GPTs.*
 >
-> Initially, I successfully developed a JSON format in the OpenAPI specification for the Google Maps API. This specific JSON format was utilized by my 'Maps Guide' custom GPT. However, I later removed the specification for the Google Maps API.
+> *Initially, I successfully developed a JSON format in the OpenAPI specification for the Google Maps API. This specific JSON format was utilized by my 'Maps Guide' custom GPT. However, I later removed the specification for the Google Maps API.*
 >
-> Subsequently, I attempted to integrate the Google Cloud Vision API, GPT-4 with Vision, and the Twitter API into several custom GPTs, but unfortunately, I was unsuccessful. During these attempts, I utilized 'OpenAPI Spec JSON Actions' to guide JSON format creation in custom GPT actions. This custom GPT was designed to facilitate the creation of JSON formats for integrating APIs. I extensively optimized, expanded, and improved 'OpenAPI Spec JSON Actions' in an effort to aid in API integration.
+> *Subsequently, I attempted to integrate the Google Cloud Vision API, GPT-4 with Vision, and the Twitter API into several custom GPTs, but unfortunately, I was unsuccessful. During these attempts, I utilized 'OpenAPI Spec JSON Actions' to guide JSON format creation in custom GPT actions. This custom GPT was designed to facilitate the creation of JSON formats for integrating APIs. I extensively optimized, expanded, and improved 'OpenAPI Spec JSON Actions' in an effort to aid in API integration.*
 >
-> Despite my efforts, integrating image recognition APIs proved to be complex. While I found Vertex AI Vision easy to manage and use, it is highly customized. Moving forward, I may consider using image recognition if a simpler, standardized method becomes available that doesn't necessitate customization of my own model.
+> *Despite my efforts, integrating image recognition APIs proved to be complex. While I found Vertex AI Vision easy to manage and use, it is highly customized. Moving forward, I may consider using image recognition if a simpler, standardized method becomes available that doesn't necessitate customization of my own model.*
 >
-> Authentication of APIs for custom GPTs posed challenges. To mitigate this, I developed a custom GPT to access the Public APIs Directory, enabling access to APIs that don't require authentication. These APIs cover various topics such as weather, public data, news, transit, currency exchange, sports, and astronomy. Additionally, I integrated the Public APIs Directory into 'Easy APIs'.
+> *Authentication of APIs for custom GPTs posed challenges. To mitigate this, I developed a custom GPT to access the Public APIs Directory, enabling access to APIs that don't require authentication. These APIs cover various topics such as weather, public data, news, transit, currency exchange, sports, and astronomy. Additionally, I integrated the Public APIs Directory into 'Easy APIs'.*
 >
-> At the beginning of 2024, OpenAI released ActionsGPT, which superseded all custom GPTs specialized in OpenAPI spec development."
+> *At the beginning of 2024, OpenAI released ActionsGPT, which superseded all custom GPTs specialized in OpenAPI spec development."*
 
 #
 
