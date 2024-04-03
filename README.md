@@ -89,7 +89,7 @@ paths:
 <details><summary>Sourceduty's Custom GPTs with Actions</summary>
 <br>
 
-[Public Libraru of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
+[Public Library of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
 <br>
 Search for scientific articles in the Public Library of Science.
 
