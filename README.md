@@ -97,7 +97,7 @@ Search for scientific articles in the Public Library of Science.
 <br>
 Search for books in the Open Library.
 
-Both of these GPTs are free and open-source; anyone can redistribute it and/or modify them.
+Both of these GPTs are free and open-source; anyone can redistribute them and/or modify them.
 
 <br>
 </details>
